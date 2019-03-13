@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TPDM_U2_Practica2_Missael</string>
+    <string-array name="tipos">
+        <item>Carro</item>
+        <item>Casa</item>
+        <item>Medico</item>
+
+    </string-array>
+</resources>
